@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 600 180">
+  <rect rx="18" ry="18" width="180" height="180" fill="#5b8def"/>
+  <path d="M60 120 l30 -60 l30 60" stroke="#fff" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="118" font-family="Inter, Arial, sans-serif" font-size="84" font-weight="700" fill="#1a1f36">Orderly</text>
+</svg>
